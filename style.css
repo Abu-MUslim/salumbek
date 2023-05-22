@@ -1,0 +1,27 @@
+.kort{
+margin-left: 300px;
+max-width: 900px;
+font-style: oblique;
+}
+
+body {
+    background-color:rgb(88, 113, 119)
+}
+
+.foot{
+
+    margin-top: 60px;
+
+}
+.ekx{
+    max-width: 600px;
+    font-weight: 900;
+}
+.hello{
+    max-width: 600px;
+    margin-left: 400px;
+}
+.hel{
+    max-width: 600px;
+    margin-left: 400px;
+}
